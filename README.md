@@ -68,7 +68,6 @@ config/
   autocmds.lua  # custom autocmds
 plugins/
   catppuccin.lua          # colorscheme
-  debugging.lua           # nvim-dap-ui wiring
   git-stuff.lua           # vim-fugitive
   vim-tmux-navigator.lua  # tmux pane navigation
 ```
